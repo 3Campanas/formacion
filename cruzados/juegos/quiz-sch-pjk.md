@@ -1,8 +1,8 @@
 ## Quiz Schoenstatt PJK
 
-{% file src="../../.gitbook/assets/quiz-sch-pjk.pdf" caption="Quiz Schoenstatt PJK (PDF)" %}
+{% file src="quiz-sch-pjk.pdf" caption="Quiz Schoenstatt PJK (PDF)" %}
 
-{% file src="../../.gitbook/assets/quiz-sch-pjk.docx" caption="Quiz Schoenstatt PJK (DOCX)" %}
+{% file src="quiz-sch-pjk.docx" caption="Quiz Schoenstatt PJK (DOCX)" %}
 
 #### A\. Schoenstatt es
 
