@@ -16,6 +16,7 @@
 * [Juegos](cruzados/juegos/README.md)
   * [Atrapar la cola del dragón](cruzados/juegos/cola_del_dragon.md)
   * [Pisa el globo](cruzados/juegos/pisa_el_globo.md)
+  * [Quiz Schoenstatt PJK](cruzados/juegos/quiz-sch-pjk.md)
 
 ## Pioneros
 
