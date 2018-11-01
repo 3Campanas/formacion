@@ -1,13 +1,5 @@
 # Día de Todos los Santos
 
-{% file src="../../.gitbook/assets/todos-los-santos.pdf" caption="Día de Todos los Santos \(PDF\)" %}
-
-{% file src="../../.gitbook/assets/todos-los-santos.docx" caption="Día de Todos los Santos \(DOCX\)" %}
-
-![Fra Angelico - Coronaci&#xF3;n de Mar&#xED;a](../../.gitbook/assets/todos-los-santos.jpg)
-
-
-
 **¿Cuándo empezó a celebrarse esta fiesta?** 
 
 Comenzó por ser una celebración de los mártires en el imperio romano.
