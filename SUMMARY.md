@@ -13,6 +13,7 @@
   * [Moisés](cruzados/fichas/moises.md)
   * [¿Quién es la Virgen María?](cruzados/fichas/quien-es-la-virgen-maria.md)
   * [Día de Todos los Santos](cruzados/fichas/todos-los-santos.md)
+  * [Fundación de Schoenstatt](cruzados/fichas/fundacion-schoenstatt.md)
 * [Juegos](cruzados/juegos/README.md)
   * [Atrapar la cola del dragón](cruzados/juegos/cola_del_dragon.md)
   * [Pisa el globo](cruzados/juegos/pisa_el_globo.md)
