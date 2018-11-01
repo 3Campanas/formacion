@@ -1,10 +1,10 @@
-# Quiz Schoenstatt PJK
+# QUIZ Schoenstatt PJK
 
 {% file src="../../.gitbook/assets/quiz-sch-pjk.pdf" caption="Quiz Schoenstatt PJK \(PDF\)" %}
 
 {% file src="../../.gitbook/assets/quiz-sch-pjk.docx" caption="Quiz Schoenstatt PJK \(DOCX\)" %}
 
-## Schoenstatt
+## QUIZ Schoenstatt
 
 ### A. Schoenstatt es
 
@@ -42,7 +42,7 @@
 2. Chicos, chicas, niños y hasta adultos mayores
 3. Todas las anteriores 
 
-## Quiz PJK
+## QUIZ PJK
 
 ### 1. Quién es el PJK?
 
