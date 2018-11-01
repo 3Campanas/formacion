@@ -1,6 +1,10 @@
 # Día de Todos los Santos
 
-**¿Cuándo empezó a celebrarse esta fiesta?** 
+{% file src=“todos-los-santos.pdf" caption=“Día de Todos los Santos (PDF)" %}
+
+{% file src=“todos-los-santos.docx" caption=“Día de Todos los Santos (DOCX)" %}
+
+¿Cuándo empezó a celebrarse esta fiesta?** 
 
 Comenzó por ser una celebración de los mártires en el imperio romano.
 
