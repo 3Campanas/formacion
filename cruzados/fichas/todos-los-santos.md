@@ -1,8 +1,5 @@
 # Día de Todos los Santos
 
-{% file src=“todos-los-santos.pdf" caption=“Día de Todos los Santos (PDF)" %}
-
-{% file src=“todos-los-santos.docx" caption=“Día de Todos los Santos (DOCX)" %}
 
 **¿Cuándo empezó a celebrarse esta fiesta?** 
 
