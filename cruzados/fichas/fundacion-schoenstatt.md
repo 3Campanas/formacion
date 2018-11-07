@@ -1,8 +1,8 @@
 # Fundación de Schoenstatt
 
-{% file src="fundacion-schoenstatt.docx" caption="Fundación de Schoenstatt" %}
+{% file src="../../.gitbook/assets/fundacion-schoenstatt.docx" caption="Fundación de Schoenstatt" %}
 
-{% file src="fundacion-schoenstatt.pdf" caption="Fundación de Schoenstatt" %}
+{% file src="../../.gitbook/assets/fundacion-schoenstatt.pdf" caption="Fundación de Schoenstatt" %}
 
 * Schoenstatt nace a comienzos del siglo XX a partir de la **labor pedagógica del P. José Kentenich** en el Seminario Menor de la comunidad de los Padres Pallotinos, en el lugar llamado Schoenstatt, \(que significa "lugar hermoso"\), junto al pueblo de Vallendar a orillas del Rhin, Alemania.
 * Desde pequeño, el Padre Kentenich debió sufrir en su propia persona el desarraigo típico de nuestro tiempo, debido a una difícil situación familiar. Pasó por duras pruebas espirituales durante todo el período de sus estudios. Sin embargo, también **pudo experimentar en la acción educadora de María,** a quien se había confiado, el camino de solución y arraigo en el mundo natural y sobrenatural.
