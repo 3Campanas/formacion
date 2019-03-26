@@ -1,5 +1,7 @@
 # Cuaresma
 
+![](../../.gitbook/assets/cuaresma.jpg)
+
 * Tiempo especial para preparar la Pascua, la gran fiesta cristiana que celebra la muerte y la resurrección de Jesús.
 * La palabra Cuaresma viene de la palabra latina cuadragesima.
 * Indica los cuarenta días que Jesús pasó en el desierto donde fue tentado por Satanás
