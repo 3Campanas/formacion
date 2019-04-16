@@ -3,7 +3,6 @@
 * [Formación](README.md)
 * [3Campanas.cl](https://3campanas.cl/)
 
-
 ## Cruzados
 
 * [Estructura general](cruzados/estructura.md)
@@ -35,3 +34,4 @@
 ## Libros
 
 * [Amor puro \(Jason Evert\)](libros/amor-puro-jason-evert.md)
+

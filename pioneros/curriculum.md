@@ -4,6 +4,10 @@ description: Pioneros
 
 # Curriculum
 
+{% hint style="info" %}
+[Plan general](http://pub.lucidpress.com/plano-pioneiros/#_0)
+{% endhint %}
+
 {% page-ref page="8o-basico-idealismo.md" %}
 
 {% page-ref page="1o-medio-ser-hombre.md" %}
