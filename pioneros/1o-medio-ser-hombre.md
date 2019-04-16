@@ -6,7 +6,7 @@ Si el grupo ya empezó a funcionar hace algún tiempo y está saliendo bien adel
 
 El encargado tiene el rol de dejar que muchas cosas pasen \(para después evaluar\), pero sobretodo compartir las mismas luchas que el grupo. Si su experiencia religiosa es auténtica y ya recorrió ese camino, puede ayudar a los chicos a pensar en el significado de sus acciones, en el hecho de que hay cosas que nos ayudan a crecer y nos hacen libres y o otros no. La Promesa del Pionero hecha a María significa el inicio de un camino de lucha más consciente para que, en las batallas de la vida, gane siempre lo mejor que cada uno lleva dentro de si.
 
-![](../../.gitbook/assets/primero.svg)
+![](../.gitbook/assets/primero.svg)
 
 | **1º MEDIO** | **Ser Hombre - Introducción a los Pioneros** |
 | :--- | :--- |

@@ -6,7 +6,7 @@ Es el año de la llegada a los Pioneros. Todo es una novedad. Para los que llega
 
 Cabe al encargado mostrar el sentido de esa libertad, retando en el sentido de los más elevados ideales que están simbolizados en la Bandera, el Código del Hombre Nuevo y en la oración del Pionero. El Hombre Nuevo es Jesús, nuestro modelo, y María es nuestra Madre, la que nos ayuda en esa conquista de la auténtica libertad.
 
-![](../../.gitbook/assets/octavo.svg)
+![](../.gitbook/assets/octavo.svg)
 
 | **8º BASICO** | **Idealismo - Introducción a los Pioneros** |
 | :--- | :--- |

@@ -6,7 +6,7 @@ En segundo medio, todo empieza a ser un poco más serio en lo que toca a las con
 
 El encargado tiene que tener mucha paciencia y sabiduría para, sin juzgar individualmente las acciones donde cada uno pueda haber sido débil \(porque él mismo sabe que también lo es\), continuar a demostrar que vale la pena luchar sin desanimar y que el premio de esta victoria es muy apetecible: Degustar nuestros triunfos junto a María y sentir el amor de Dios en nosotros vale tanto la pena que no tiene comparación con nuestras miserias! El grupo es el ambiente propicio para apoyarnos en la lucha y hacer frente al ambiente adverso en que nos encontramos.
 
-![](../../.gitbook/assets/segundo.svg)
+![](../.gitbook/assets/segundo.svg)
 
 | **2º MEDIO** | **Coherencia - Decisión en el día a día** |
 | :--- | :--- |

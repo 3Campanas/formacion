@@ -6,7 +6,7 @@ Cuarto medio es un año de transición hacia algo nuevo que es el mundo universi
 
 El encargado debe recordar al grupo que la vida no es estática sino un proceso de crecimiento permanente que tiene etapas. Una tentación latente en este proceso de transición es despedirse anticipadamente de la Rama de los Pioneros, cosa que puede acrecentar el sentimiento de no pertenencia y quedar en el aire. Es un desafío encontrar formas de participación adecuadas en la Rama, a través de aportes puntuales y la autoridad moral, sabiendo que "Pionero que pisa el Colegio es todavía Pionero". Lo más importante es entrar en la dinámica de la gratitud respecto del camino recorrido y ponerse de acuerdo para seguir adelante con mucha esperanza porque se viene algo nuevo y muy bueno, la Rama de los Universitarios.
 
-![](../../.gitbook/assets/cuarto.svg)
+![](../.gitbook/assets/cuarto.svg)
 
 | **4º MEDIO** | **Recomenzar - Prepararse para algo nuevo** |
 | :--- | :--- |

@@ -6,7 +6,7 @@ Este año es, de hecho, el último año completo en los Pioneros y tiene grandes
 
 El desafío del encargado es hacer con que cada uno se sienta verdaderamente único, que esté haciendo su propio camino con autenticidad y a su ritmo, dejándose interpelar positivamente por el crecimiento de los demás. Lo más importante es mantener al grupo unido en una dinámica de crecimiento humano y espiritual; no quedar marcado paso en el mismo lugar en una mediocridad donde las personas no se tocan. Lo fundamental es que cada uno se vaya abriendo al sentido de la vida que es regalarse, servir, abrirse al mundo y ser protagonista de su propia vida dejando una huella en las personas que nos rodean. Es importantísimo ayudar a que el grupo sea creativo y encuentre formas de mantenerse activo \(estagnar es morir...\) participando en proyectos concretos, especificamente de voluntariado.
 
-![](../../.gitbook/assets/tercero.svg)
+![](../.gitbook/assets/tercero.svg)
 
 | **3º MEDIO** | **Compromiso - Asumir responsabilidades al servicio de otros** |
 | :--- | :--- |
