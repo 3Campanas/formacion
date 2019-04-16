@@ -3,9 +3,6 @@
 * [Formación](README.md)
 * [3Campanas.cl](https://3campanas.cl/)
 
-## Libros
-
-* [Amor puro \(Jason Evert\)](libros/amor-puro-jason-evert.md)
 
 ## Cruzados
 
@@ -31,7 +28,10 @@
 * [3º Medio - Compromiso](pioneros/3o-medio-compromiso.md)
 * [4º Medio - Recomenzar](pioneros/4o-medio-recomenzar.md)
 
-## TEMAS
+## Temas
 
 * [Voces de Dios](temas/voces-de-dios.md)
 
+## Libros
+
+* [Amor puro \(Jason Evert\)](libros/amor-puro-jason-evert.md)
