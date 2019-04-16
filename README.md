@@ -1,4 +1,6 @@
-# Formación
+---
+description: ¡Bienvenido!
+---
 
-¡Bienvenido!
+# Formación
 
