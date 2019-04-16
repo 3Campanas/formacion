@@ -8,7 +8,7 @@
 
 ## Cruzados
 
-* [Estructura](cruzados/estructura.md)
+* [Estructura general](cruzados/estructura.md)
 * [Fichas](cruzados/fichas/README.md)
   * [Moisés](cruzados/fichas/moises.md)
   * [¿Quién es la Virgen María?](cruzados/fichas/quien-es-la-virgen-maria.md)
