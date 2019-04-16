@@ -2,9 +2,7 @@
 
 Muchas veces la vida parece caótica y sin un sentido claro. En ese contexto ¿cuál es nuestro norte, hacia dónde guiamos nuestras acciones?
 
-La Fe Práctica en la Divina Providencia nos enseña que Dios está presente en cada realidad por más insignificante que parezca.
-
-El desafío consiste en descubrir ahí la presencia de Dios y escuchar su voz de Dios que nos susurra el camino a seguir.
+La Fe Práctica en la Divina Providencia nos enseña que Dios está presente en cada realidad por más insignificante que parezca. El desafío consiste en descubrir ahí la presencia de Dios y escuchar su voz que nos susurra el camino a seguir.
 
 Típicamente, hablamos de tres voces: tiempo, alma y ser.
 
