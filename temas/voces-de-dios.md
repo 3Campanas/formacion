@@ -8,7 +8,7 @@ Típicamente, hablamos de tres voces: tiempo, alma y ser.
 
 **La voz del tiempo** se refiere al contexto más amplio donde se desarrolla la vida del hombre, el gran teatro de la historia donde ocurren los grandes acontecimientos con toda su carga dramática. Algunos de esos acontecimientos son fruto de la acción del Espíritu Santo, son _semillas del Verbo;_ otros tienen como artífice el Demonio que trata de adueñarse de la historia.
 
-Al mirar el contexto en que se inserta nuestra vida, podemos identificar circulos concénticos a partir de nosotros mismos: nuestra familia, grupos, país, etc.
+Al mirar el contexto en que se inserta nuestra vida, podemos identificar círculos concéntricos a partir de nosotros mismos: nuestra familia, grupos, país, etc.
 
 _¿Qué signos del acontecer mundial y mi entorno reconozco como una intervención de Dios y cuáles parecen llevar la marca del Tentador? ¿Qué me dicen?_
 
