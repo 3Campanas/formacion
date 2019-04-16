@@ -30,3 +30,7 @@
   * [3º Medio - Compromiso](pioneros/curriculum/3o-medio-compromiso.md)
   * [4º Medio - Recomenzar](pioneros/curriculum/4o-medio-recomenzar.md)
 
+## TEMAS
+
+* [Voces de Dios](temas/voces-de-dios.md)
+
